@@ -1,0 +1,6 @@
+streamlit
+cv2
+numpy
+pandas
+argparse
+imutils
